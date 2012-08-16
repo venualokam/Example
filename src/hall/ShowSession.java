@@ -90,7 +90,8 @@ public class ShowSession extends javax.servlet.http.HttpServlet {
          doGet(request, response);
     }
      public void destroy()  {
-       log.debug("Do destroy---------------");
+
+       log.debug("Do destroy------22222222222222---------");
      }
 
 }
