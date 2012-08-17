@@ -86,7 +86,7 @@ public class ShowSession extends javax.servlet.http.HttpServlet {
       }
 
     public void service(HttpServletRequest request,HttpServletResponse response)   throws ServletException, IOException{
-                              log.debug("Do service-----3333333333----------");
+                              log.debug("Do service-----3333333333 666----------");
          doGet(request, response);
     }
      public void destroy()  {
