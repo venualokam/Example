@@ -91,7 +91,7 @@ public class ShowSession extends javax.servlet.http.HttpServlet {
     }
      public void destroy()  {
 
-       log.debug("Do destroy------22222222222222---------");
+       log.debug("Do destroy------22222222222222----777-----");
      }
 
 }
